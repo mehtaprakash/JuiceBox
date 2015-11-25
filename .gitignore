@@ -2,6 +2,7 @@
 coverage/
 reports/
 juiceshop.sqlite
+*.mp4
 
 # Intellij
 .idea/
