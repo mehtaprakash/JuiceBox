@@ -3,6 +3,8 @@ coverage/
 reports/
 juiceshop.sqlite
 *.mp4
+*.mpg
+*.avi
 
 # Intellij
 .idea/
