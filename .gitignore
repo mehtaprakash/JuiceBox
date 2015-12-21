@@ -5,6 +5,7 @@ juiceshop.sqlite
 *.mp4
 *.mpg
 *.avi
+*.out
 
 # Intellij
 .idea/
